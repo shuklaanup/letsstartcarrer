@@ -1,0 +1,57 @@
+.contain{
+    background-color: black;
+    height: 50px;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.contain ul{
+    overflow: auto;
+}
+.contain li{
+    float: left; 
+    list-style:none;
+    color: white;
+    padding-top: 10x;
+    margin:10px;
+}
+.contain a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    font-weight: 600;
+    font-size: large;
+}
+.contain a:hover{
+    color: green;
+}
+.contain input{
+    float: right;
+}
+.contain a:active{
+    color: blue;
+}
+.search input{
+    width: 25%;
+    margin-top: 10px;
+    padding-top: 4px;
+    margin-right: 20px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.search button{
+    margin-left: 300px;
+    margin-top: 9px;
+    background-color: white;
+    color:black;
+    font-weight: 600;
+    font-size: large;
+    border: 3px solid black;
+    border-radius: 5px;
+
+}
+.search button:hover{
+    color: white;
+    background-color: green;
+}

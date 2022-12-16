@@ -1,0 +1,95 @@
+form{
+    text-align: center;
+}
+.allign{
+    background-color: aquamarine;
+}
+.size{
+    font-size:20px ;
+    text-align: center;
+}
+.bg{
+    background-color: blue;
+    border-radius: 10px;
+}
+.pad{
+    width: 60%;
+    height: 40px;
+    border: 3px solid burlywood;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.opt{
+    width: 20%;
+    height: 40px;
+    background-color: white;
+    border: 3px solid burlywood;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.reg{
+    width: 30%;
+    height: 40px;
+    background-color: green;
+    color: white;
+    size: 10%;
+    border: 3px solid green;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 2px;
+}
+.bor{
+    border: 4px solid aqua;
+    padding-bottom:40px;
+    border-radius: 15px;
+    background-color:skyblue;
+}
+.bah{
+    
+    text-align: center;
+    background-color: aqua;
+    
+}
+.red{
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: green;
+    color: white;
+    size: 10%;
+    border: 3px solid green;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+#bold{
+    text-align: justify;
+    margin-left: 97px;
+    
+}
+.bat{
+    align-items: center;
+    text-align: center;
+    color:white;
+    background-color: rgb(19, 19, 221);
+    border: 3px solid white;
+    border-radius: 15px;
+    
+}
+.section
+{
+    background-color: white;
+    color:gray;
+    padding: 8px 11px 10px 11px;
+    border: 3px solid burlywood;
+    border-radius:10px ;
+    margin-top: 8px;
+}
+.new
+{
+    padding-bottom: 30px;
+}
+.new1{
+    background-color: aqua;
+  }

@@ -1,0 +1,65 @@
+.new1{
+    text-align: center;
+    background-color: rgb(228,105,120);
+    color: white;
+}
+.new1:hover{
+    background-color:black;
+}
+.new1 h1{
+    font-weight: 600;
+    color: rgb(252, 248, 248);
+}
+.new2{
+    background-color: aqua;
+}
+p:hover{
+   color: rgb(18, 240, 77);
+   cursor:pointer;
+}
+.new4:hover{
+    color: rgb(127, 14, 91);
+}
+.new4{
+    color: yellow;
+}
+.new1 h1:hover{
+    cursor: pointer;
+    color: rgb(143, 177, 6);
+}
+.ne{
+    background-color: rgb(42, 42, 235);
+    text-decoration: none;
+    color: white;
+    width:40px;
+    height: 40px;
+    padding-top: 12px;
+    border-radius: 60px;
+    margin: 20px;
+}
+.ne:hover{
+    background-color: white;
+    color: blue;
+}
+.in{
+    text-decoration: none;
+    font-size: larger;
+    background-color: rgb(42, 42, 235);
+    color: white;
+    width:40px;
+    height: 40px;
+    padding-top: 12px;
+    border-radius: 60px;
+    margin: 20px;
+}
+.in:hover{
+    background-color: white ;
+    color: rgb(179, 64, 64);
+}
+.new6{
+    font-size: xx-large;
+    font-style: bold;
+     font-weight: 500;
+     height: 10px;
+     padding-top: 10px;
+}

@@ -1,0 +1,34 @@
+.new{
+    text-align: center;
+    color: white;
+    background-image:url("./math.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.new1{
+  background-color: aqua;
+}
+.new2{
+    text-align: justify;
+}
+.new6{
+    font-size: xx-large;
+    font-style: bold;
+     font-weight: 500;
+     height: 10px;
+     padding-top: 10px;
+}
+.new4:hover{
+    color: rgb(127, 14, 91);
+}
+.new4{
+    color: yellow;
+}
+.new7{
+    color: rgba(6, 245, 221, 0.355);
+    font-weight: 600;
+}
+.new8{
+    text-align: end;
+    font-size: x-small;
+}

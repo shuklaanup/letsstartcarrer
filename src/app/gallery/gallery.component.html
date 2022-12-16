@@ -1,0 +1,20 @@
+
+
+<div class="bg">
+<input  class="bg" type="button" value="post" (click)="post1()">
+    <div [ngSwitch]="upload">
+      <div  *ngSwitchCase="'photo'">
+       
+    <form class="bg" #post="ngForm" (ngSubmit)="Post(post.value)">
+        <input type="file" class="" (change)="image($event)"><br>
+        <input type="text" class="" name="comment" placeholder=Caption_OR_Comment ngModel>
+        <button click="submit" class="btn btn-outline-success submit">Post</button>
+    </form>
+      </div>
+      </div>
+<td class="bg" *ngFor="let feed of userPost" >
+    <img class="bg3" src="http://localhost:7000/profilePic/{{feed.post}}" width="330" height="330"><br>
+    <h5 class="bg2" style="text-align: center;">comment:{{feed.comment}}</h5>
+</td>
+</div>
+
